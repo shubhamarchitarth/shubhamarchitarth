@@ -48,14 +48,14 @@
     <td align="center">⭐<br><sub><b>Stars</b></sub><br>156+</td>
     <td align="center">🔄<br><sub><b>PRs</b></sub><br>75+</td>
     <td align="center">🐛<br><sub><b>Issues</b></sub><br>50+</td>
-    <td align="center">🔥<br><sub><b>Streak</b></sub><br>87 days</td>
+    <td align="center">🔥<br><sub><b>Streak</b></sub><br>32 days</td>
   </tr>
   <tr>
-    <td align="center">💻<br><sub><b>Commits</b></sub><br>500+</td>
-    <td align="center">📊<br><sub><b>Languages</b></sub><br>8+</td>
+    <td align="center">💻<br><sub><b>Commits</b></sub><br>163</td>
+    <td align="center">📊<br><sub><b>Languages</b></sub><br>3</td>
     <td align="center">🌟<br><sub><b>Followers</b></sub><br>127</td>
     <td align="center">👥<br><sub><b>Following</b></sub><br>89</td>
-    <td align="center">📈<br><sub><b>Contributions</b></sub><br>520+</td>
+    <td align="center">📈<br><sub><b>Contributions</b></sub><br>331</td>
   </tr>
 </table>
 
