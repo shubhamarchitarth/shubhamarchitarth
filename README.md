@@ -36,7 +36,7 @@
   
 ### 🥇 My Coding Achievements
 ```
-🏆 First Repository        ⭐ 156+ Stars Earned        🔥 87 Day Streak
+🏆 First Repository        ⭐ 156+ Stars Earned        🔥 32 Day Streak
 🥇 Pull Request Master     ⚡ Quick Learner           🎯 Problem Solver  
 🌟 Code Quality Champion   💎 Consistent Contributor   🚀 Innovation Award
 🏅 Team Player            📈 Growth Mindset          🔧 Bug Hunter
