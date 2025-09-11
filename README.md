@@ -39,5 +39,25 @@
 <div align="center">  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamarchitarth&color=00f7ff&style=flat-square&label=Profile+Views)  
-![GitHub followers](https://img.shields.io/github/followers/shubhamarchitarth?label=Followers&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/shubhamarchitarth?label=Followers&style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/shubhamarchitarth?label=Stars&style=flat-square)  
 
+![Shubham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamarchitarth&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamarchitarth&layout=compact&theme=radical&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhamarchitarth&theme=radical&hide_border=true)  
+
+</div>  
+
+---
+
+## 🔥 My AI/ML Journey  
+```ascii
+    🏢 Current Role: AI/ML Intern @ Tech Mahindra (since Sept 2025)
+    🎓 B.Tech Student @ MSRIT, Bangalore (2025–2029)
+    🚀 Currently Learning: Machine Learning & Deep Learning
+    💻 Focus Areas: Python, TensorFlow, PyTorch, Scikit-learn
+    🤖 AI Specialties: NLP, Computer Vision, Data Science
+    🎯 Goal: Becoming an AI/ML expert
+    📈 Status: Growing stronger every day!
+    🌟 Belief: God’s Plan
